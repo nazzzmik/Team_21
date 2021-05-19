@@ -123,4 +123,7 @@
 
     <string name="Donation">пожертвование</string>
     <string name="text_donate">Спасибо за поддержку!</string>
+
+    <string name="menu_message">Сообщения</string>
+
 </resources>

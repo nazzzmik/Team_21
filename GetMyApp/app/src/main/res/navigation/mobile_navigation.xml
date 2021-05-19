@@ -77,4 +77,11 @@
             android:id="@+id/action_nav_add_report_to_nav_found"
             app:destination="@id/nav_found" />
     </fragment>
+
+    <fragment
+        android:id="@+id/nav_message"
+        android:name="com.example.getmyapp.ui.message.MessageFragment"
+        android:label="@string/menu_message"
+        tools:layout="@layout/fragment_message" />
+
 </navigation>

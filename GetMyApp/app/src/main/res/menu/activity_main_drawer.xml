@@ -32,5 +32,10 @@
             android:id="@+id/nav_changelang"
             android:icon="@drawable/ic_baseline_language_24"
             android:title="@string/menu_changelang" />
+
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/ic_baseline_message_24"
+            android:title="@string/menu_message" />
     </group>
 </menu>

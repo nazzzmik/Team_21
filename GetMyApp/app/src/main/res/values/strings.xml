@@ -130,4 +130,6 @@
     <string name="generic_error">Please provide an input</string>
     <string name="Donation">Donation</string>
     <string name="text_donate">Thank you for your support!</string>
+
+    <string name="menu_message">Messages</string>
 </resources>
